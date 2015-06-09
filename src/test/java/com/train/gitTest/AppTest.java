@@ -34,7 +34,11 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+
         System.out.println("dev");
         System.out.println("dev2");
+
+        System.out.println("master dev");     
+
     }
 }
