@@ -33,12 +33,12 @@ public class AppTest
      */
     public void testApp()
     {
+    	 System.out.println("version 1");
         assertTrue( true );
 
-        System.out.println("dev");
-        System.out.println("dev2");
-
         System.out.println("master dev");     
+
+
 
     }
 }
