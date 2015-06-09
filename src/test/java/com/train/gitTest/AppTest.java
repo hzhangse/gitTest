@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	 System.out.println("version AB");
+    	 System.out.println("version BBBBBBB");
     	 System.out.println("version B");
     	 System.out.println("version 1");
         assertTrue( true );
