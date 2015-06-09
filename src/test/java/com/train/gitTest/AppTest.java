@@ -33,6 +33,8 @@ public class AppTest
      */
     public void testApp()
     {
+    	 System.out.println("version 1");
         assertTrue( true );
+        System.out.println("version 2");
     }
 }
