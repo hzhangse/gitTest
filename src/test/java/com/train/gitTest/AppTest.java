@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("dev");
+        System.out.println("dev2");
     }
 }
