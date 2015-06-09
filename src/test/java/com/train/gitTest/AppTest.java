@@ -5,13 +5,13 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit test
  */
 public class AppTest 
     extends TestCase
 {
     /**
-     * Create the test case
+     * Create the dtest case
      *
      * @param testName name of the test case
      */
@@ -34,11 +34,10 @@ public class AppTest
     public void testApp()
     {
     	 System.out.println("version 1");
+    	 System.out.println("version 1");
         assertTrue( true );
-
-        System.out.println("master dev");     
-
-
-
+        System.out.println("version 2");
+        System.out.println("version 2");
+        System.out.println("version 2");
     }
 }
